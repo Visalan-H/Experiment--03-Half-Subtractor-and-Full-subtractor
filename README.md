@@ -33,19 +33,40 @@ Write the detailed procedure here
 
 
 ## Program:
+Halfsubtractor 
+![ex4halfcode](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/ddbf95fe-4c40-491f-87fb-f75f0014f998)
+
+Fullsubtractor
+![ex4fullcode](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/349a2b55-2e05-4a85-b03b-80e41958749d)
+
 /*
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: Visalan H
+RegisterNumber: 23007458 
 */
 
 ## Output:
+Halfsubtractor 
+![ex4halfoutput](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/50c57f39-80ac-4e51-8b6a-a3fd962e9779)
+
+Fullsubtractor
+![ex4fulloutput](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/7b28084b-a229-4cbd-8931-0de7be1f96f0)
+
 
 ## Truthtable
+Halfsubtractor 
+![ex4halftt](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/310aa222-d844-4796-a2e8-1e223b176d50)
 
-
+Fullsubtractor
+![ex4fulltt](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/fd25fa5a-f4f5-44cf-8f9b-7e3421d61238)
 
 ##  RTL realization
+Halfsubtractor 
+![ex4halfrtl](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/325027df-c059-4c76-a88b-4fe41b248de3)
+
+Fullsubtractor
+![ex4fullrtl](https://github.com/Visalan-H/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/152077751/f96b0d5b-97f0-413d-9b2b-953a62f5e7ef)
+
 
 
 ## Timing diagram 
